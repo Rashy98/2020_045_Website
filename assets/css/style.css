@@ -471,7 +471,7 @@ section {
 }
 
 .section-bg:before {
-  background-image: url("../img/red.jpg");
+  background-image: url("../img/Greenback.jpg");
   content: "";
   position: absolute;
   bottom: 60px;
@@ -1198,6 +1198,7 @@ section {
 }
 
 .team .member .member-img {
+
   position: relative;
   overflow: hidden;
 }
